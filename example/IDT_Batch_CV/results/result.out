@@ -1,0 +1,74 @@
+======Start of Program=====
+Reading input...
+=====Case Number 1======
+
+Input Received.
+
+Mechanism Name: GRI30
+Virial Folder Name: Virial_GRI30
+Virial Order: 6
+Estimated IDT: 2e-06 s
+Initial Temperature: 1000.0 K
+Initial Pressure: 100000000.0 Pa
+Initial Volume: 1.0 m^3
+Initial Specific Volume: 146.3795 cm^3
+Initial Mole Number: 6831.557697628425
+dmdt Value: 0.0
+dVdt Value: 0.0
+dQdt Value: 0.0
+Fuel List: ['H2', 'CH4']
+Oxidizer List: ['O2', 'N2']
+Diluent List: ['CO2', 'H2O']
+Fuel Mole Fractions: [0.05, 0.15]
+Oxidizer Mole Fractions: [0.1, 0.05]
+Diluent Mole Fractions: [0.85, 0.8]
+Relative Tolerance: 1e-13
+Absolute Tolerance: 1e-13
+
+Calculation now in progress...
+
+=====Case Number 2======
+
+Input Received.
+
+Mechanism Name: GRI30
+Virial Folder Name: Virial_GRI30
+Virial Order: 6
+Estimated IDT: 2e-06 s
+Initial Temperature: 2000.0 K
+Initial Pressure: 200000000.0 Pa
+Initial Volume: 2.0 m^3
+Initial Specific Volume: 146.3795 cm^3
+Initial Mole Number: 13663.11539525685
+dmdt Value: 0.0
+dVdt Value: 0.0
+dQdt Value: 0.0
+Fuel List: ['H2']
+Oxidizer List: ['O2']
+Diluent List: ['CO2']
+Fuel Mole Fractions: [0.05]
+Oxidizer Mole Fractions: [0.1]
+Diluent Mole Fractions: [0.85]
+Relative Tolerance: 1e-13
+Absolute Tolerance: 1e-13
+
+Calculation now in progress...
+
+initial temperature: 1.000000e+03
+initial pressure: 1.000000e+08
+initial volume: 1.000000e+00
+initial temperature: 2.000000e+03
+initial pressure: 2.000000e+08
+initial volume: 2.000000e+00
+=====Case 1 Finished=====
+IDT by max dP/dt is 1.710673e+00us
+IDT by max [OH] is 1.710673e+00us
+Saving results...
+IDT_calculation_CV.py:285: ODEintWarning: Excess work done on this call (perhaps wrong Dfun type). Run with full_output = 1 to get quantitative information.
+=====Case 2 Finished=====
+IDT by max dP/dt is 5.338596e-02us
+IDT by max [OH] is 5.338596e-02us
+Saving results...
+======End of Program=====
+Time of execution:  76.14324083328248 minutes.
+
