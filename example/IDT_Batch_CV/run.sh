@@ -6,10 +6,10 @@
 #PBS -q h07c02
 
 
-EXEC=/puhome/21093985d/UHPC_RF_Master_1/app/ConstantVolume/IDT_calculation_CV
-INPUT=/puhome/21093985d/UHPC_RF_Master_1/example/IDT_Batch_CV/input.txt
+EXEC=/location_of_the_UHPC_RF_folder/UHPC_RF_Master_1/app/ConstantVolume/IDT_calculation_CV
+INPUT=/location_of_the_UHPC_RF_folder/UHPC_RF_Master_1/example/IDT_Batch_CV/input.txt
 mkdir -p -- "results"
-OUTFILE=/puhome/21093985d/UHPC_RF_Master_1/example/IDT_Batch_CV/results/result.out
+OUTFILE=/location_of_the_UHPC_RF_folder/UHPC_RF_Master_1/example/IDT_Batch_CV/results/result.out
 
 # Run your executable with the input file
 
