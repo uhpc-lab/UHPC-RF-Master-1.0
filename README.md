@@ -50,6 +50,8 @@ Inside each example folder is an input text file <code>input.txt</code> and a sh
 The instructions for input are written in lines 1-19 in <code>input.txt</code>. Make sure to start your inputs from line 21, and separate each input with a comma. DO NOT start your input before line 21, as they will not be read.
 If you wish to run multiple cases at once, write your next input at the next line (i.e. line 22, and so on). 
 
+DO NOT modify the file name either, as the application was programmed to read this exact name.
+
 *Modifying the Shell Script*
 
 Lines 2-6 are information regarding your computer. Modify as necessary.
