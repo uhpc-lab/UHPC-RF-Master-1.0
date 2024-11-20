@@ -1,0 +1,54 @@
+======Start of Program=====
+Reading input...
+=====Case Number 1======
+Input Received.
+Mechanism Name: GRI30
+Virial Folder Name: Virial_GRI30
+Virial Order: 7
+Temperature gap between each step of continuation: 100.0 
+Start temperature of continuation: 1500.0 K
+Inlet temperature of JSR: 1000.0 K
+Inlet pressure of JSR: 10000000.0 Pa
+Volume of JSR: 1.0 m^3
+JSR inlet substance: ['H2' 'O2' 'AR']
+JSR inlet mole fraction composition: [0.05 0.1  0.85]
+Residence time: 0.3 s
+
+Calculation now in progress...
+
+=====Case Number 2======
+Input Received.
+Mechanism Name: GRI30
+Virial Folder Name: Virial_GRI30
+Virial Order: 7
+Temperature gap between each step of continuation: 200.0 
+Start temperature of continuation: 2000.0 K
+Inlet temperature of JSR: 2000.0 K
+Inlet pressure of JSR: 20000000.0 Pa
+Volume of JSR: 1.0 m^3
+JSR inlet substance: ['H2' 'O2' 'AR']
+JSR inlet mole fraction composition: [0.05 0.1  0.85]
+Residence time: 0.3 s
+
+Calculation now in progress...
+
+---continuation-----Temperature=1500 K-----finished-----
+JSR_calculation.py:73: DeprecationWarning: PressureController: The 'master' keyword argument is deprecated; use 'primary' instead.
+  pressure_regulator   = ct.PressureController(upstream=reactor, downstream=out_const, master=mass_flow_controller)
+---continuation-----Temperature=2000 K-----finished-----
+JSR_calculation.py:73: DeprecationWarning: PressureController: The 'master' keyword argument is deprecated; use 'primary' instead.
+  pressure_regulator   = ct.PressureController(upstream=reactor, downstream=out_const, master=mass_flow_controller)
+---continuation-----Temperature=2000 K-----finished-----
+---continuation-----Temperature=1400 K-----finished-----
+continuation is finished
+=====Case 2 Finished=====
+Saving results...
+---continuation-----Temperature=1300 K-----finished-----
+---continuation-----Temperature=1200 K-----finished-----
+---continuation-----Temperature=1100 K-----finished-----
+---continuation-----Temperature=1000 K-----finished-----
+continuation is finished
+=====Case 1 Finished=====
+Saving results...
+======End of Program=====
+Time of execution:  24.55439739227295 minutes.
