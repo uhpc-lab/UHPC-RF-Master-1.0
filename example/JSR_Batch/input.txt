@@ -1,0 +1,13 @@
+# Column 1 name of mechanism
+# Column 2 name of folder containing set of virial equations
+# Column 3 order of virial equations of state used
+# Column 4 temperature gap between each step of the continuation
+# Column 5 start temperature of continuation (unit: K)
+# Column 6 inlet temperature of JSR (unit: K)
+# Column 7 inlet pressure of JSR (unit: K)
+# Column 8 volume of JSR (unit: m^3)
+# Column 9 JSR inlet substance (Note: if more than one, please separate using ';', e.g. H2;O2;AR)
+# Column 10 JSR inlet mole fraction composition (Note: if more than one, please separate using ';', e.g. 0.05;0.1;0.85)
+# Column 11 residence time (s) || **Input MUST start from line 13!**
+
+GRI30,Virial_GRI30,7,100,1500,1000,10000000,1,H2;O2;AR,0.05;0.1;0.85,0.3
