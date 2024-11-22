@@ -1,2 +1,0 @@
-app/ConstantVolume/IDT_calculation_CV filter=lfs diff=lfs merge=lfs -text
-app/JetStirredReactor/JSR_calculation filter=lfs diff=lfs merge=lfs -text
