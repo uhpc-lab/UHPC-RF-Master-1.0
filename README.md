@@ -29,6 +29,8 @@ To install, simply download the contents in this repository by clicking the "cod
 
 The <code>app</code> and <code>example</code> folders will be downloaded on your local computer and can be run with the instructions below.
 
+Alternatively, the repository can also be cloned. 
+
 # Applications
 
 For the Constant-Volume Reactor Module, the application is <code>IDT_calculation_CV</code> and can be found in <code>app/ConstantVolume</code>.
