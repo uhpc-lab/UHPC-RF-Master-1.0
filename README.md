@@ -84,5 +84,3 @@ The terminal will display the progress in the form of text. Once the calculation
 ======End of Program=====
 
 Time of execution: ______ minutes
-
-# License
