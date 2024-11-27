@@ -6,17 +6,17 @@ Currently, it contains the following reactor modules, with more under developmen
 
 1. Constant-Volume Reactor Module
 
-2. Perfectly-Stirred Reactor Module
+2. Jet-Stirred Reactor Module
 
 For the Constant-Volume Reactor Module, please cite:
 
-1. Mingrui Wang, Ruoyue Tang, Xinrui Ren, Yanqing Cui, Molly Meng-Jung Li, Shao-Yuan Leu, Carol Sze Ki Lin, Song Cheng*, Ab initio intermolecular interactions mediate thermochemically real-fluid effects that affect system reactivity: The first application of high-order Virial EoS and first-principles multi-body potentials in trans-/super-critical autoignition modelling, Combustion and Flame, under review.
+1. M. Wang, R. Tang, X. Ren, Y. Cui, MMJ. Li, SY. Leu, CSK. Lin, S. Cheng, Ab initio intermolecular interactions mediate thermochemically real-fluid effects that affect system reactivity: The first application of high-order Virial EoS and first-principles multi-body potentials in trans-/super-critical autoignition modelling, Combust. Flame 272 (2025) 113844. https://doi.org/10.1016/j.combustflame.2024.113844
    
-For the Perfectly-Stirred Reactor Module, please cite:
+For the Jet-Stirred Reactor Module, please cite:
 
-1. Mingrui Wang, Ruoyue Tang, Xinrui Ren, Hongqing Wu, Ting Zhang, Song Cheng*, The first application of high-order Virial equation of state and ab initio multi-body potentials in modeling supercritical oxidation in jet-stirred reactors, Fuel, under review.
+1. M.Wang, R. Tang, X. Ren, H. Wu, T. Zhang, S. Cheng, The first application of high-order Virial equation of state and ab initio multi-body potentials in modeling supercritical oxidation in jet-stirred reactors, Fuel 15 (2025) 382. https://doi.org/10.1016/j.fuel.2024.133753
 2. Mingrui Wang, Ruoyue Tang, Xinrui Ren, Hongqing Wu, Ting Zhang, Song Cheng*, On the real-fluid effects during supercritical ammonia oxidation, International Journal of Hydrogen Energy, under review.
-
+   
 # Authors
 
 UHPC-RF-Master-1.0 was created by The Ultra-High-Combustion Laboratory at The Hong Kong Polytechnic University, with significant contributions from Dr Mingrui WANG and Prof Song CHENG, and technical inputs from Adrian Lua.
@@ -33,7 +33,7 @@ The <code>app</code> and <code>example</code> folders will be downloaded on your
 
 For the Constant-Volume Reactor Module, the application is <code>IDT_calculation_CV</code> and can be found in <code>app/ConstantVolume</code>.
 
-For the Perfectly-Stirred Reactor Module, the application is <code>IDT_calculation_PSR</code> and can be found in <code>app/PSR</code>.
+For the Jet-Stirred Reactor Module, the application is <code>IDT_calculation_PSR</code> and can be found in <code>app/PSR</code>.
 
 # How to Run 
 
