@@ -26,17 +26,23 @@ UHPC-RF-Master-1.0 was created by The Ultra-High-Combustion Laboratory at The Ho
 
 The executable was packaged in Linux, and hence the application must be run on linux. The application can however either be downloaded on other systems such as Windows or MacOS and transferred to Linux or be directly downloaded from Linux. 
 
-To install, simply download the contents in this repository by clicking the "code" button and selecting "Download Zip".
+To install, follow the steps: 
+
+1. Download the contents in this repository by clicking the "code" button and selecting "Download Zip".
 
 The <code>app</code> and <code>example</code> folders will be downloaded on your local computer and can be run with the instructions below.
 
 Alternatively, the repository can also be cloned. 
 
+2. Download the desired application (e.g. <code>IDT_calculation_CV</code) in the "Releases" section of this repository and transfer them to the respective subfolder (e.g. <code>IDT_calculation_CV</code>) inside the <code>app</code> folder in your local computer.
+   
+# *Make sure you follow step 2 or else the app will NOT be downloaded and you won't be able to proceed with running the app!*
+
 # Applications
 
-For the Constant-Volume Reactor Module, the application is <code>IDT_calculation_CV</code> and can be found in <code>app/ConstantVolume</code>.
+For the Constant-Volume Reactor Module, the application is <code>IDT_calculation_CV</code> and can be found in the Releases section.
 
-For the Jet-Stirred Reactor Module, the application is <code>IDT_calculation_PSR</code> and can be found in <code>app/PSR</code>.
+For the Jet-Stirred Reactor Module, the application is <code>JSR_calculation</code> and can be found in the Releases section.
 
 # How to Run 
 
