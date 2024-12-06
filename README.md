@@ -10,12 +10,12 @@ Currently, it contains the following reactor modules, with more under developmen
 
 For the Constant-Volume Reactor Module, please cite:
 
-1. M. Wang, R. Tang, X. Ren, Y. Cui, MMJ. Li, SY. Leu, CSK. Lin, S. Cheng, Ab initio intermolecular interactions mediate thermochemically real-fluid effects that affect system reactivity: The first application of high-order Virial EoS and first-principles multi-body potentials in trans-/super-critical autoignition modelling, Combust. Flame 272 (2025) 113844. https://doi.org/10.1016/j.combustflame.2024.113844
+1. M. Wang, R. Tang, X. Ren, Y. Cui, MMJ. Li, SY. Leu, CSK. Lin, S. Cheng*, Ab initio intermolecular interactions mediate thermochemically real-fluid effects that affect system reactivity: The first application of high-order Virial EoS and first-principles multi-body potentials in trans-/super-critical autoignition modelling, Combust. Flame 272 (2025) 113844. https://doi.org/10.1016/j.combustflame.2024.113844
    
 For the Jet-Stirred Reactor Module, please cite:
 
-1. M.Wang, R. Tang, X. Ren, H. Wu, T. Zhang, S. Cheng, The first application of high-order Virial equation of state and ab initio multi-body potentials in modeling supercritical oxidation in jet-stirred reactors, Fuel 15 (2025) 382. https://doi.org/10.1016/j.fuel.2024.133753
-2. Mingrui Wang, Ruoyue Tang, Xinrui Ren, Hongqing Wu, Ting Zhang, Song Cheng*, On the real-fluid effects during supercritical ammonia oxidation, International Journal of Hydrogen Energy, under review.
+1. M.Wang, R. Tang, X. Ren, H. Wu, T. Zhang, S. Cheng*, The first application of high-order Virial equation of state and ab initio multi-body potentials in modeling supercritical oxidation in jet-stirred reactors, Fuel 15 (2025) 382. https://doi.org/10.1016/j.fuel.2024.133753
+2. Mingrui Wang, Ruoyue Tang, Xinrui Ren, Hongqing Wu, Yuxin Dong, Ting Zhang, Song Cheng*, Investigation of real-fluid effects on NH3 oxidation and blending characteristics at supercritical conditions via high-order Virial equation of state coupled with ab initio intermolecular potentials, Combustion and Flame 272 (2025) 113887. https://doi.org/10.1016/j.combustflame.2024.113887.
    
 # Authors
 
