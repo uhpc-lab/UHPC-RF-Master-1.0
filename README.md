@@ -35,7 +35,6 @@ The <code>app</code> and <code>example</code> folders will be downloaded on your
 Alternatively, the repository can also be cloned. 
 
 2. Download the desired application (e.g. <code>IDT_calculation_CV</code) in the "Releases" section of this repository and transfer them to the respective subfolder (e.g. <code>IDT_calculation_CV</code>) inside the <code>app</code> folder in your local computer.
-   
 **Make sure you follow step 2 or else the app will NOT be downloaded and you won't be able to proceed with running the app!**
 
 # Applications
